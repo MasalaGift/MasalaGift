@@ -21,7 +21,7 @@ I'm passionate about **Java/Spring Boot** for enterprise systems and **React/Typ
 | **[WealthTrack Backend](https://github.com/MasalaGift/wealthtrack-backend)** *(coming public soon)* | Spring Boot REST API for personal finance – JWT auth, account & transaction management, spending reports. |
 | **[React Shopping List](https://github.com/MasalaGift/react-shopping-list/tree/dev)** *(private)* | Full‑stack app with React, TypeScript, Node.js, PostgreSQL, and Redux Toolkit. |
 | **[React Native Note Taker](https://github.com/MasalaGift/react-native-note-taker/tree/dev?tab=readme-ov-file)** *(private)* | Cross‑platform mobile app with offline storage (AsyncStorage) and real‑time search. |
-| **[React Job Searcher](https://github.com/MasalaGift/react-job-app-tracker/tree/dev)** *(private)* | A modern, full-featured job application tracking system built with React and TypeScript. |
+| **[React Job Tracker](https://github.com/MasalaGift/react-job-app-tracker/tree/dev)** *(private)* | A modern, full-featured job application tracking system built with React and TypeScript. |
 
 *(Some repos are private – feel free to reach out if you'd like to see more!)*
 
