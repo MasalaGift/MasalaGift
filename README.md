@@ -46,7 +46,7 @@ Full-stack job application tracking system.
 ---
 
 ### 🛒 React Shopping List App  
-Live Website: 
+Live Website: react-shopping-list-frontend-fnfvtt1t5-gifts-projects-d91eda63.vercel.app
 Repo link: https://github.com/MasalaGift/react-shopping-list/tree/dev
 
 JavaScript | TypeScript | React | Node.js | Redux Toolkit | PostgreSQL
