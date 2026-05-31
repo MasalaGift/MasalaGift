@@ -44,7 +44,8 @@ Full-stack job application tracking system.
 ---
 
 ### 🛒 React Shopping List App  
-Repo link: https://github.com/MasalaGift/react-shopping-list/tree/dev  
+Repo link: https://github.com/MasalaGift/react-shopping-list/tree/dev
+
 JavaScript | TypeScript | React | Node.js | Redux Toolkit | PostgreSQL
 
 Full-stack task management application.
@@ -56,7 +57,8 @@ Full-stack task management application.
 ---
 
 ### 📱 React Native Note Taker  
-https://github.com/MasalaGift/react-native-note-taker  
+Repo link: https://github.com/MasalaGift/react-native-note-taker/tree/dev
+
 JavaScript | React Native | TypeScript | AsyncStorage
 
 Mobile note-taking application with offline support.
