@@ -44,7 +44,7 @@ Full-stack job application tracking system.
 ---
 
 ### 🛒 React Shopping List App  
-https://github.com/MasalaGift/react-shopping-list  
+Repo link: https://github.com/MasalaGift/react-shopping-list/tree/dev  
 JavaScript | TypeScript | React | Node.js | Redux Toolkit | PostgreSQL
 
 Full-stack task management application.
