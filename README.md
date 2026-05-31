@@ -31,8 +31,10 @@ Secure personal finance API for managing income, expenses, and accounts.
 
 ---
 
-### 📋 JobTracker  
-https://github.com/MasalaGift/JobTracker  
+### 📋 JobTracker
+Live Website: 
+Repo link: https://github.com/MasalaGift/react-job-app-tracker/tree/dev
+
 JavaScript | React | Node.js | Express | PostgreSQL
 
 Full-stack job application tracking system.
@@ -44,6 +46,7 @@ Full-stack job application tracking system.
 ---
 
 ### 🛒 React Shopping List App  
+Live Website: 
 Repo link: https://github.com/MasalaGift/react-shopping-list/tree/dev
 
 JavaScript | TypeScript | React | Node.js | Redux Toolkit | PostgreSQL
