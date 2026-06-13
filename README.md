@@ -61,8 +61,8 @@ Secure personal finance API for managing income, expenses, and accounts.
 ---
 
 ### 📋 JobTracker
-**Live Demo:** https://react-job-ap.netlify.app/  
-**Repo:** https://github.com/MasalaGift/react-job-app-tracker/tree/dev  
+**[Live Demo]** (https://react-job-ap.netlify.app/) 
+**[Repo]** (https://github.com/MasalaGift/react-job-app-tracker/tree/dev)
 
 **JavaScript | React | Node.js | Express | PostgreSQL**
 
@@ -75,8 +75,8 @@ Full-stack job application tracking system.
 ---
 
 ### 🛒 React Shopping List App
-**Live Demo:** https://react-shopping-list-frontend-fnfvtt1t5-gifts-projects-d91eda63.vercel.app  
-**Repo:** https://github.com/MasalaGift/react-shopping-list/tree/dev  
+**[Live Demo]** (https://react-shopping-list-frontend-fnfvtt1t5-gifts-projects-d91eda63.vercel.app)
+**[Repo]** (https://github.com/MasalaGift/react-shopping-list/tree/dev) 
 
 **JavaScript | TypeScript | React | Node.js | Redux Toolkit | PostgreSQL**
 
@@ -89,7 +89,7 @@ Full-stack task management application.
 ---
 
 ### 📱 React Native Note Taker
-**Repo:** https://github.com/MasalaGift/react-native-note-taker/tree/dev  
+**[Repo]** (https://github.com/MasalaGift/react-native-note-taker/tree/dev)  
 
 **JavaScript | React Native | TypeScript | AsyncStorage**
 
